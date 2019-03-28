@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "gitpaid-20190312185203-authRole",
+            "UnauthRoleArn": "arn:aws:iam::341524844143:role/gitpaid-20190312185203-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::341524844143:role/gitpaid-20190312185203-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "gitpaid-20190312185203-deployment",
+            "UnauthRoleName": "gitpaid-20190312185203-unauthRole",
+            "StackName": "gitpaid-20190312185203",
+            "StackId": "arn:aws:cloudformation:us-east-1:341524844143:stack/gitpaid-20190312185203/746277e0-4519-11e9-93b7-0e1ffe4de6a4"
+        }
+    }
+}
